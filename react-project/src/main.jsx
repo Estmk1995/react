@@ -28,8 +28,8 @@ const Button = ({ text }) => {
 };
 root.render(
   <React.Fragment>
-    <Button text=" Hola" />
-    <Button text=" Mundo" />
-    <Button text=" Me gusta" />
+    <Button text=" Me Gusta" />
+    <Button text=" Me Gusta" />
+    <Button text=" Me Gusta" />
   </React.Fragment>
 );
